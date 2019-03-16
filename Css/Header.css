@@ -1,0 +1,6 @@
+.jumbotron {
+    background: url('../Assets/Img/GreatDane.jpg') center bottom;
+    background-size: cover;
+    height: 30vh;
+    color: white;
+}
