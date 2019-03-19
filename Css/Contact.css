@@ -1,7 +1,10 @@
 #contact {
     background: var(--black);
+    padding: 70px;
+    
 }
 
 h2 {
     color: white;
 }
+

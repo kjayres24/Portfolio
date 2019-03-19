@@ -1,3 +1,9 @@
 body {
-    background: var(--brown);
+    background-color: var(--grey);
+   
+   
+}
+
+html {
+    scroll-behavior: smooth;
 }

@@ -1,0 +1,14 @@
+#footer {
+    position: scroll;
+    left: 0;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+    background: var(--black);
+    color: white;
+    text-align: left;
+    z-index: 1;
+    opacity: 1;
+    
+
+}
