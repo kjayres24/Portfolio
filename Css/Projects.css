@@ -27,7 +27,7 @@
     
   }
 
-  .col:hover .overlay {
+  .col .overlay:hover {
     opacity: 1;
     transform: scale(1.5); 
     
@@ -71,4 +71,9 @@
         transform: translate(-50%, -50%);
         text-align: center;
         
+      }
+
+      h1 {
+        font-size: 50px;
+      
       }
