@@ -1,6 +1,6 @@
 .projectimage {
     
-    border-radius: 15px;
+    border-radius: 2px;
     padding: 0px;
     margin-left: auto;
     margin-right: auto;
@@ -33,9 +33,14 @@
     
   }
   
-  
+
+    
+
   .text1 {
-    color: tan;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-weight: bold;
     font-size: 20px;
     position: absolute;
     top: 50%;
@@ -48,7 +53,10 @@
   }
 
       .text2 {
-        color: darkslategrey;
+        color: white;
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: black;
+        font-weight: bold;
         font-size: 20px;
         position: absolute;
         top: 50%;
@@ -61,8 +69,43 @@
       }
 
       .text3 {
-        color: black;
+        color: white;
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: black;
+        font-weight: bold;
         font-size: 20px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        text-align: center;
+        
+      }
+
+      .text4 {
+        color: white;
+        -webkit-text-stroke-width: 1px;
+ -webkit-text-stroke-color: black;
+ font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        text-align: center;
+        
+      }
+
+      .text5 {
+        color: white;
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: black;
+        font-weight: bold;
+        font-size: 15px;
         position: absolute;
         top: 50%;
         left: 50%;
